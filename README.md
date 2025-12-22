@@ -1,4 +1,4 @@
-# Solar Flare Prediction with CNN and API
+# Solar Flare Prediction with CNN 
 This project predicts solar flare intensity and class using SDO (Solar Dynamics Observatory) imagery and exposes the trained model through a simple REST API. It is built around the SDOBenchmark dataset and a custom multitask convolutional neural network that performs both regression (peak X‑ray flux) and classification (M/X vs non‑M/X flare) from multi‑channel image sequences.
 ​
 
